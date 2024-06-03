@@ -21,6 +21,9 @@ An admin can view client information details, add flats, vehicles and food. Can 
 
 A client can sign up for the application. Can check availability of flats, vehicles and food. A client can rent them and do payment for them.
 
+If a client opens the application, the person will see a sign up option where they have to submit there personal information along with banking information. The client can see the availibity of rent and will get a option to book it. Then it will take the client to a confirmation window where he has to give his user info and confirmation about booking the flat. Same goes for the Vehicles and food.
+
+The admin panel has a login Option. The admin can see his users information. He has the option to add and delete flat and vehicles. He can also edit the application information.
 
 
 ## Running the app
