@@ -1,0 +1,4 @@
+1!Chicken Burger!350!40
+2!French Fries!120!20
+3!Biriyani!500!95
+6!Champio Biscuit!20!39
