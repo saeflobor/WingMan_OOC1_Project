@@ -26,3 +26,12 @@ A client can sign up for the application. Can check availability of flats, vehic
 ## Running the app
 
 Clone the repository, open up the directory with IntelliJ Idea and run Main.main().
+
+## Demo
+
+![AdminLogin](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/2939b3da-de4d-40c3-8bb0-367a86623210)
+![AdminPanel](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/eab3c68e-74fc-432a-b766-19bac14e7ed3)
+![FlatRentDashBoard](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/4d60521a-10d5-4062-9d30-6f5da949884d)
+![FoodPanel](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/435d0ecf-337c-4b3d-ac40-4664f0bb1ba1)
+![PayRent](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/1f265772-ff1f-4c9b-b444-b8610920e921)
+![Starting Page](https://github.com/saeflobor/WingMan_OOC1_Project/assets/171501064/72ebe3f4-3010-4d04-ac29-3eac6c848f4b)
